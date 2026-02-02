@@ -9,16 +9,8 @@
 ░  ░  ░  ▒ ▒ ░░     ░   ░ ░   ░        ░░   ░   ░   ▒   
       ░  ░ ░              ░             ░           ░  ░
          ░ ░                                            
-                                                             
-                                                             
-                                                             
-Hello, welcome to official github of Syntra LLC, the open-source company.
-What I've made.
-- Syntra Maps
-- Syntra Docs
-- Vista Browser
-- Syntra Music
 
-Contact me on discord @enthalo if you find bugs.
-
+ SOLO-ELECTRON WEB-BROWSER PROJECT
+Contact me on discord @mugient if you find bugs or wanna send me feedback!
+Community Discord Server: https://discord.gg/HJgj2RRgaF
 This project is running on chromium, and Is also open source.
